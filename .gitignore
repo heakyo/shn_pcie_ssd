@@ -1,0 +1,8 @@
+tags
+*.swp
+*.out
+*.cmd
+*.ko*
+*.mod*
+*.o
+usr_test
